@@ -17,8 +17,8 @@ print the result
 ### PROGRAM:
 ```python
 #Program to find the distance between two points.
-#Developed by: `kavya
-#RegisterNumber:22008613
+#Developed by: Mohanraj.S
+#RegisterNumber:212221230065S
 
 import math
 l1 = [4,2]
